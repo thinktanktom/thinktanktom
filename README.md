@@ -1,6 +1,6 @@
 # Hi there, I'm Thomas Cyriac! 👋
 
-Welcome to my GitHub page, where I tinker with code, occasionally break things, and sometimes even fix them. I'm currently freelancing at Upwork, turning caffeine into code and ideas into reality.
+Welcome to my GitHub page, where I tinker with code, occasionally break things, and sometimes even fix them. I'm currently freelancing at Upwork, turning thoughts into code and ideas into reality.
 
 ### About Me
 
