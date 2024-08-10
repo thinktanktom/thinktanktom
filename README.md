@@ -16,11 +16,8 @@ Why "thinktanktom," you ask?
 
 ### Let's Connect
 
-- **📧 Email**: [thinktanktom52@gmail.com](mailto:thinktanktom52@gmail.com)
+- **📧 Email**: [thinktanktom@proton.me](mailto:thinktanktom@proton.me)
 - **💬 Telegram**: [@thinktanktom](https://t.me/thinktanktom)
 - **💼 Upwork**: [My Upwork Profile](https://www.upwork.com/freelancers/~018a1dbf1094588c7e)
 
 Thanks for visiting! If you like what you see, feel free to reach out. Or just sit back, clone a repo, and enjoy the code.
-
-Cheers,
-Thomas
