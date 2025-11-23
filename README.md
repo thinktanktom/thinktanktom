@@ -1,23 +1,50 @@
-# Hi there, I'm Thomas Cyriac! 👋
+# Hi, I'm Thomas Cyriac! 👋
 
-Welcome to my GitHub page, where I tinker with code, occasionally break things, and sometimes even fix them. I'm currently freelancing at Upwork, turning thoughts into code and ideas into reality.
+Senior Blockchain Engineer specializing in DeFi protocols and Web3 infrastructure. Building the decentralized future, one smart contract at a time.
 
-### About Me
+## About Me
 
-- **🎓 Education**: I graduated from SRM Institute of Science and Technology, where I juggled football, speedcubing, and the dream of one day assembling the ultimate desktop PC. It was a time of epic wins on the field, quick cube solves, and plotting the specs of a future dream machine—because what’s college without a few lofty ambitions and a lot of late-night coding?
-- **🛠️ Skills**: I consider myself an engineer who can build just about anything. So far, I've dabbled in AI, DevOps, and Blockchain Technology—think of it as engineering on steroids.
-- **💻 Setup**: Currently rocking a Dell XPS 15 9520 with NixOS 24.05. Because when you’re in the business of building and breaking things, you need a setup that’s as cutting-edge as your imagination.
-- **🤖 Fun Fact**: This README is AI-generated—proof that even my documentation prefers to take the path of least resistance. I let the AI do the heavy lifting, so I can focus on making things awesome.
+🔗 **Web3 Native**: 4+ years deep in the blockchain trenches. I've built everything from algorithmic stablecoins to cross-chain bridges, NFT marketplaces to zero-collateral lending protocols. Currently helping startups and DAOs scale their on-chain operations through Upwork.
 
-### Why "thinktanktom"?
-Why "thinktanktom," you ask?  
-"ThinkTankTom" isn’t just a random mashup of words; it’s a testament to my love for solving complex puzzles with a dash of creativity. Think of it as the place where big ideas meet practical solutions—kind of like a think tank, but with fewer suits and more code. And "Tom"? Well, that's just there to keep things friendly and to remind everyone that even the most serious problems deserve a bit of a personal touch.
+⚡ **What Sets Me Apart**:
+- **DeFi Expertise**: Architected yield-generating protocols, forked and enhanced SafeMoon mechanics, implemented Venus Protocol integrations
+- **Cross-Chain Development**: Built token bridges connecting ERC20 to BEP20, experienced with Ethereum, BSC, and emerging L2s
+- **Full-Stack Web3**: Smart contracts to frontend dApps - I ship complete solutions
+- **AI + Blockchain Convergence**: Unique background combining ML/AI with blockchain (published research on Token Curated Registries)
 
+🛠️ **Blockchain Stack**:
+- **Smart Contracts**: Solidity, Rust, Go
+- **DeFi Protocols**: Uniswap/PancakeSwap forks, Lending protocols, Staking mechanisms
+- **Web3 Tools**: Hardhat, Truffle, Web3.js, Ethers.js
+- **Infrastructure**: IPFS, The Graph, Chainlink oracles
+- **Security**: Smart contract auditing, testing frameworks
 
-### Let's Connect
+💡 **Recent Builds**:
+- Algorithmic stablecoin with interest-earning minting mechanism
+- Custom DEX with enhanced tokenomics and reflection mechanisms  
+- Zero-collateral loan protocol for Nord Finance
+- Cross-chain bridge API for ERC20/BEP20 token migration
 
-- **📧 Email**: [thinktanktom@proton.me](mailto:thinktanktom@proton.me)
-- **💬 Telegram**: [@thinktanktom](https://t.me/thinktanktom)
-- **💼 Upwork**: [My Upwork Profile](https://www.upwork.com/freelancers/~018a1dbf1094588c7e)
+🎯 **Startup DNA**: 
+- Shipped production code at Nord Finance (Series A DeFi startup)
+- Comfortable with rapid iteration and wearing multiple hats
+- Experience from seed-stage (Lambda Vision) to growth-stage companies
+- Remote-first mindset with proven async collaboration skills
 
-Thanks for visiting! If you like what you see, feel free to reach out. Or just sit back, clone a repo, and enjoy the code.
+## Beyond the Code
+
+🎓 B.Tech Computer Science, SRM Institute (2021)  
+🌍 Based in India | Open to remote/relocation  
+💻 Linux enthusiast running NixOS - because decentralization starts with your OS  
+🏗️ Hardware hobbyist - I build PCs like I architect protocols: optimized and future-proof
+
+## Let's Build Together
+
+Whether you're launching a new DeFi protocol, need smart contract expertise, or exploring innovative blockchain solutions, I'm always interested in ambitious Web3 projects.
+
+📧 **Email**: thinktanktom@proton.me  
+💬 **Telegram**: @thinktanktom  
+💼 **Upwork**: [Top-Rated Blockchain Developer](https://www.upwork.com/freelancers/thinktanktom)  
+🔗 **LinkedIn**: [thomas-c-7a8ba3184](https://www.linkedin.com/in/thomas-c-7a8ba3184)
+
+**Open to**: Full-time roles | Contract work | DAO contributions | Interesting collaborations
