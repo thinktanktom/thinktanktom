@@ -1,50 +1,62 @@
-# Hi, I'm Thomas Cyriac! 👋
+# Thomas Cyriac
 
-Senior Blockchain Engineer specializing in DeFi protocols and Web3 infrastructure. Building the decentralized future, one smart contract at a time.
+DeFi protocol developer. I build stablecoins, tokenomics systems, and blockchain infrastructure.
 
-## About Me
+## Notable Work
 
-🔗 **Web3 Native**: 4+ years deep in the blockchain trenches. I've built everything from algorithmic stablecoins to cross-chain bridges, NFT marketplaces to zero-collateral lending protocols. Currently helping startups and DAOs scale their on-chain operations through Upwork.
+### BankX — Core Developer & Architect
+Built from the ground up: a dual-token, partially-collateralized stablecoin protocol.
 
-⚡ **What Sets Me Apart**:
-- **DeFi Expertise**: Architected yield-generating protocols, forked and enhanced SafeMoon mechanics, implemented Venus Protocol integrations
-- **Cross-Chain Development**: Built token bridges connecting ERC20 to BEP20, experienced with Ethereum, BSC, and emerging L2s
-- **Full-Stack Web3**: Smart contracts to frontend dApps - I ship complete solutions
-- **AI + Blockchain Convergence**: Unique background combining ML/AI with blockchain (published research on Token Curated Registries)
+- **First stablecoin to pay interest for minting** — novel mechanism where minters earn yield while their stablecoin circulates
+- **Integrated Protocol Owned Liquidity (IPOL)** — innovation on Olympus DAO's POL model with autonomous monetary policy
+- **Multi-chain deployment**: Ethereum, BSC, Arbitrum, Polygon, Optimism, Avalanche, Fantom
+- **XSD stablecoin** pegged to silver (not USD) as an inflation hedge
+- Security audited, economically audited, white-hat tested
 
-🛠️ **Blockchain Stack**:
-- **Smart Contracts**: Solidity, Rust, Go
-- **DeFi Protocols**: Uniswap/PancakeSwap forks, Lending protocols, Staking mechanisms
-- **Web3 Tools**: Hardhat, Truffle, Web3.js, Ethers.js
-- **Infrastructure**: IPFS, The Graph, Chainlink oracles
-- **Security**: Smart contract auditing, testing frameworks
+Technical scope: smart contract architecture, tokenomics design, liquidity pool mechanics, arbitrage systems, front-end integration.
 
-💡 **Recent Builds**:
-- Algorithmic stablecoin with interest-earning minting mechanism
-- Custom DEX with enhanced tokenomics and reflection mechanisms  
-- Zero-collateral loan protocol for Nord Finance
-- Cross-chain bridge API for ERC20/BEP20 token migration
+→ [BankX.io](https://bankx.io) | Whitepaper available on request
 
-🎯 **Startup DNA**: 
-- Shipped production code at Nord Finance (Series A DeFi startup)
-- Comfortable with rapid iteration and wearing multiple hats
-- Experience from seed-stage (Lambda Vision) to growth-stage companies
-- Remote-first mindset with proven async collaboration skills
+### CtrlBit — Founding Engineer
+MikroTik network management platform for MSPs, ISPs, and enterprises.
 
-## Beyond the Code
+- Multi-tenant architecture with client isolation
+- Real-time device monitoring (CPU, memory, network performance)
+- Zero-touch provisioning and centralized configuration
+- WireGuard/OpenVPN integration for secure remote access
 
-🎓 B.Tech Computer Science, SRM Institute (2021)  
-🌍 Based in India | Open to remote/relocation  
-💻 Linux enthusiast running NixOS - because decentralization starts with your OS  
-🏗️ Hardware hobbyist - I build PCs like I architect protocols: optimized and future-proof
+→ [ctrlbit.com](https://ctrlbit.com)
 
-## Let's Build Together
+## Technical Stack
 
-Whether you're launching a new DeFi protocol, need smart contract expertise, or exploring innovative blockchain solutions, I'm always interested in ambitious Web3 projects.
+**Blockchain**: Solidity, Hardhat, Ethers.js, Web3.js, Rust  
+**Chains**: Ethereum, BSC, Arbitrum, Polygon, Optimism, Avalanche, Fantom  
+**Integrations**: Chainlink, The Graph, IPFS, Uniswap/PancakeSwap forks  
+**Infrastructure**: Node.js, Go, Docker, AWS
 
-📧 **Email**: thinktanktom@proton.me  
-💬 **Telegram**: @thinktanktom  
-💼 **Upwork**: [Top-Rated Blockchain Developer](https://www.upwork.com/freelancers/thinktanktom)  
-🔗 **LinkedIn**: [thomas-c-7a8ba3184](https://www.linkedin.com/in/thomas-c-7a8ba3184)
+## Background
 
-**Open to**: Full-time roles | Contract work | DAO contributions | Interesting collaborations
+- B.Tech Computer Science, SRM Institute (2021)
+- 4+ years building production blockchain systems
+- Top-rated on Upwork (100% job success, $100K+ earned)
+- Previously: Nord Finance (DeFi), Lambda Vision
+
+## Open Source
+
+- [Venus Protocol Integration](https://github.com/thinktanktom/Venus-Protocol-Integration) — PancakeSwap + Venus staking
+- [Chainlink Guild Protocol](https://github.com/thinktanktom/Chainlink-Guild-Protocol) — Blockchain freelancing platform
+- [Onchain Randomization](https://github.com/thinktanktom/onchain-randomization) — Hashmasks fork
+
+## Currently
+
+Building BankX. Open to discussions about:
+- Full-time protocol engineering roles
+- DeFi architecture consulting
+- Smart contract audits and reviews
+
+## Contact
+
+- Email: thinktanktom@proton.me
+- Telegram: @thinktanktom
+- [Upwork](https://www.upwork.com/freelancers/thinktanktom) — Top Rated Plus
+- [LinkedIn](https://www.linkedin.com/in/thomas-c-7a8ba3184)
